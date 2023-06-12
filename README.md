@@ -1,6 +1,6 @@
 # I-LSTM-GAN:动态系统故障诊断模型基于tf.keras实现
 ---
-
+revised by 杜文友 杨峻培
 ## 目录
 
 1. 创建环境
